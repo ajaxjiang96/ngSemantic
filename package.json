@@ -1,8 +1,8 @@
 {
   "name": "ng-semantic",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "main": "./ng-semantic.js",
-  "description": "Angular2 building blocks based on Semantic UI",
+  "description": "Angular2 building blocks based on Semantic UI. Forked by ajaxjiang96 to fix the Angular2 compilation issue.",
   "scripts": {
     "demo:lint": "tslint -c ./tslint.json 'demo/app/**/*.ts'",
     "library:lint": "tslint -c ./tslint.json 'src/**/*.ts'",
